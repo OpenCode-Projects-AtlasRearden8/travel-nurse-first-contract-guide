@@ -1,0 +1,11 @@
+# Generated site output — rebuild with: python3 build.py
+site/
+out/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Editor/OS noise
+.DS_Store
+*.swp
